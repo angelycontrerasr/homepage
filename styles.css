@@ -1,0 +1,16 @@
+body {
+    --bg-dark: hsl(15 100% 2%);
+    --bg: hsl(30 100% 3%);
+    --bg-light: hsl(42 100% 4%);
+    --text: hsl(48 100% 83%);
+    --text-muted: hsl(48 45% 58%);
+    --highlight: hsl(49 100% 13%);
+    --border: hsl(46 100% 10%);
+    --border-muted: hsl(41 100% 7%);
+    --primary: hsl(52 100% 32%);
+    --secondary: hsl(233 100% 85%);
+    --danger: hsl(7 89% 66%);
+    --warning: hsl(54 100% 25%);
+    --success: hsl(162 100% 29%);
+    --info: hsl(217 100% 69%);
+}
